@@ -220,3 +220,19 @@ This project also utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dat
   pages={1020-1027}
 }
 ```
+
+This project also utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation.
+
+```
+@article{Dut-Anti-UAV,
+  title={Vision-Based Anti-UAV Detection and Tracking},
+  author={Jie Zhao and Jingshu Zhang and Dongdong Li and D. Wang},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2022},
+  volume={23},
+  pages={25323-25334}
+}
+```
+
+
+This project also utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dataset for training and evaluation.
