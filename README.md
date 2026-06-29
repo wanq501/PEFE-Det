@@ -33,6 +33,8 @@
       <td>2,654</td>
       <td>---</td>
       <td>---</td>
+    </tr>
+     <tr>
       <td>DUT-Plus</td>
       <td align="left">Extends <a href="https://github.com/wangdongdut/DUT-Anti-UAV">DUT-Anti-UAV</a> dataset with multi-target scenes and distractors (birds, aircraft) as hard negatives to reduce false positives.</td>
       <td>7,000</td>
