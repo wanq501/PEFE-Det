@@ -208,7 +208,7 @@ This project is based on the open source codebase [YOLO (Ultralytics)](https://g
 ```
 
 
-This project also utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dataset for training and evaluation.
+This project utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dataset for training and evaluation.
 
 ```
 @article{Det-Fly,
@@ -221,7 +221,7 @@ This project also utilizes the [Det-Fly](https://github.com/Jake-WU/Det-Fly) dat
 }
 ```
 
-This project also utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset for training and evaluation.
+This project utilizes the [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) dataset to create new augmented datasets for training and evaluation.
 
 ```
 @article{Dut-Anti-UAV,
